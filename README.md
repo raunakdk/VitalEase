@@ -1,5 +1,5 @@
 # VitalEase
-
+<h2>Preview of my Website </h2>
 ![image](https://github.com/raunakdk/VitalEase/assets/82759731/8de56d24-9416-4471-9421-0b3d3cd9dbb8)
 Welcome to VITAL EASE
 
